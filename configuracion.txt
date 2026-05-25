@@ -1,0 +1,4 @@
+SERVIDOR=localhost
+PUERTO=3306
+USUARIO=admin
+MODO=desarrollo
