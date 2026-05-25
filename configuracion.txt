@@ -1,4 +1,4 @@
-SERVIDOR=localhost
+SERVIDOR=servidor-produccion
 PUERTO=3306
 USUARIO=admin
 MODO=desarrollo
