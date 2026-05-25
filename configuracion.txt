@@ -1,4 +1,4 @@
-SERVIDOR=servidor-produccion
+SERVIDOR=servidor-produccion resuelve conflicto
 PUERTO=3306
 USUARIO=admin
 MODO=desarrollo
