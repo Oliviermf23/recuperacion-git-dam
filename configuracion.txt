@@ -1,4 +1,4 @@
-SERVIDOR=localhost
+SERVIDOR = 192.168.1.10
 PUERTO=3306
 USUARIO=admin
 MODO=desarrollo
