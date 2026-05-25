@@ -2,3 +2,6 @@ SERVIDOR=localhost
 PUERTO=3306
 USUARIO=admin
 MODO=desarrollo
+DEBUG=true
+IDIOMA=es
+TIMEOUT=30
